@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="grafikacv02.GrafikaCV02Controller">
+   <children>
+      <Button fx:id="btnClickMe" layoutX="274.0" layoutY="187.0" mnemonicParsing="false" text="Click me!" AnchorPane.bottomAnchor="187.66666666666666" AnchorPane.leftAnchor="274.0" AnchorPane.rightAnchor="261.3333333333333" AnchorPane.topAnchor="187.0" />
+      <Label layoutX="286.0" layoutY="231.0" text="Label" />
+   </children>
+</AnchorPane>
